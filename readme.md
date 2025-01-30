@@ -3,4 +3,4 @@ Sentiment analysis is an important area in Natural Language Processing (NLP) tha
 
 This paper focuses on the shared task of Political Multiclass Sentiment Analysis of Tamil tweets, where the goal is to classify tweets into specific sentiment categories. We explain our approach, which involves preprocessing the Tamil text, extracting useful features, and using machine learning and deep learning models for classification. 
 
-The results of our experiments show the effectiveness of our methods, and we also discuss some challenges we faced while working on Tamil political sentiment analysis
+The results of our experiments show the effectiveness of our methods, and we also discuss some challenges we faced while working on Tamil political sentiment analysis. We have secured 15th position in this shared task.
